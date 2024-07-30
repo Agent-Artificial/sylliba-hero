@@ -78,7 +78,7 @@ export function hero() {
                   </span>
                   <br></br>
                   <span className="text-white bg-clip-text">
-                    Global understand{" "}
+                    Global Understanding
                   </span>
                 </h1>
                 <p className="mt-4 text-xl text-violet-200">
