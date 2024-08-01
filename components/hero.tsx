@@ -30,7 +30,7 @@ export function hero() {
               className="flex items-center gap-2 hover:3000"
               prefetch={false}
             >
-              <Image src="/logo.png" alt="Sylliba" width={32} height={32} />
+              <Image src="/logo.webp" alt="Sylliba" width={32} height={32} />
               <span className="sr-only"></span>
               <span className="text-white font-bold">Sylliba</span>
             </Link>
